@@ -1,13 +1,16 @@
 import { NextRequest } from 'next/server';
-import { 
-  CrudOperations, 
-  withErrorHandling, 
-  parseQueryParams, 
+import {
+  CrudOperations,
+  withErrorHandling,
+  parseQueryParams,
   validateRequestBody,
   successResponse,
-  errorResponse 
+  errorResponse
 } from '@/lib/api-utils';
 import { logApiRequest } from '@/lib/debug-log';
+
+// Configure for Edge Runtime
+export const runtime = 'edge';
 
 // 创建 examples 表的 CRUD 操作实例
 const examplesCrud = new CrudOperations('examples');
