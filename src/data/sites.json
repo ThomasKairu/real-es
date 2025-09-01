@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Modern online store with payment integration and inventory management",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+    "technologies": ["Next.js", "Stripe", "PostgreSQL"],
+    "category": "E-Commerce",
+    "url": "https://example-store.com"
+  },
+  {
+    "id": 2,
+    "title": "Corporate Website",
+    "description": "Professional business website with CMS and contact forms",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "category": "Corporate",
+    "url": "https://example-corp.com"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "description": "Creative portfolio with interactive galleries and animations",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=400&h=300&fit=crop",
+    "technologies": ["Vue.js", "Three.js", "Firebase"],
+    "category": "Portfolio",
+    "url": "https://example-portfolio.com"
+  },
+  {
+    "id": 4,
+    "title": "SaaS Dashboard",
+    "description": "Analytics dashboard with real-time data visualization",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+    "technologies": ["React", "D3.js", "Express"],
+    "category": "SaaS",
+    "url": "https://example-saas.com"
+  },
+  {
+    "id": 5,
+    "title": "Restaurant Website",
+    "description": "Online ordering system with menu management and reservations",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "technologies": ["Next.js", "Prisma", "Tailwind"],
+    "category": "Restaurant",
+    "url": "https://example-restaurant.com"
+  },
+  {
+    "id": 6,
+    "title": "Educational Platform",
+    "description": "Learning management system with video streaming and progress tracking",
+    "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=400&h=300&fit=crop",
+    "technologies": ["Angular", "Node.js", "MySQL"],
+    "category": "Education",
+    "url": "https://example-edu.com"
+  }
+]

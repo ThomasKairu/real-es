@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "name": "Custom Phone Cases",
+    "description": "Personalized phone cases with custom designs and colors",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "material": "PLA Plastic",
+    "printTime": "2-3 hours",
+    "price": "$15-25"
+  },
+  {
+    "id": 2,
+    "name": "Architectural Models",
+    "description": "Detailed scale models for architectural presentations",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "category": "Professional",
+    "material": "Resin",
+    "printTime": "8-12 hours",
+    "price": "$50-150"
+  },
+  {
+    "id": 3,
+    "name": "Prototype Parts",
+    "description": "Functional prototypes for product development and testing",
+    "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=400&h=300&fit=crop",
+    "category": "Industrial",
+    "material": "ABS Plastic",
+    "printTime": "4-6 hours",
+    "price": "$30-80"
+  },
+  {
+    "id": 4,
+    "name": "Decorative Items",
+    "description": "Custom home decor and artistic pieces",
+    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop",
+    "category": "Art & Decor",
+    "material": "PETG",
+    "printTime": "3-5 hours",
+    "price": "$20-40"
+  },
+  {
+    "id": 5,
+    "name": "Replacement Parts",
+    "description": "Custom replacement parts for various appliances and devices",
+    "image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=400&h=300&fit=crop",
+    "category": "Repair",
+    "material": "Nylon",
+    "printTime": "1-4 hours",
+    "price": "$10-35"
+  },
+  {
+    "id": 6,
+    "name": "Educational Models",
+    "description": "Learning aids and educational demonstrations",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+    "category": "Education",
+    "material": "PLA Plastic",
+    "printTime": "2-6 hours",
+    "price": "$15-45"
+  }
+]
