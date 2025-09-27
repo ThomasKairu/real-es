@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "NetArchitect - Professional Web Development, 3D Printing & Automation",
   description: "Expert web development, 3D printing services, and automation solutions for modern businesses. Transform your ideas into reality with NetArchitect.",
   keywords: "web development, 3D printing, automation, business solutions, technology services",
+  verification: {
+    google: "bfF160i4ek-J_y-DtPjkX2hOtvEffMLWktlodcNKK4w",
+  },
 };
 
 export default function RootLayout({
